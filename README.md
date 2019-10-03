@@ -1,4 +1,4 @@
-# Math App
+# Math App v1.0.0
 Web application with math functionality.
 
 The features are:
